@@ -7,7 +7,7 @@
 	font-size: 70px;
 }
 
-#landingpage{
+.landingpage{
 	margin-top: -50px;
 }
 
@@ -78,7 +78,7 @@ body{
 
 
 
-#slides{
+.slides{
 	font-style: italic;
 	border-bottom: solid 1px gray;
 	margin-top: -20px;
