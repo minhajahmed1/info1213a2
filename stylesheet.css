@@ -91,7 +91,7 @@ body{
 	margin-top: -20px;
 }
 
-#border{
+.row{
 	border-bottom: solid 1px gray;
 }
 
@@ -100,3 +100,10 @@ body{
 	margin-bottom: -5px;
 }
 
+#border1{
+	border-bottom: none;
+}
+
+#border2{
+	border-bottom: none;
+}
